@@ -1,1 +1,1 @@
-This project is to show my basic skills in HTML
+This project is to show my basic skills in HTML 
